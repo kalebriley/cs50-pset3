@@ -1,8 +1,9 @@
 #
 # Makefile
 #
-# Computer Science 50
-# Problem Set 3
+# Kaleb Riley
+# 
+# Commands neccessary to successfullly compile fifteens Source
 #
 
 fifteen: fifteen.c
